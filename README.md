@@ -18,5 +18,4 @@ AI-powered resume screener that scores and ranks CVs against a job description u
 ## How to run
 streamlit run app.py
 
-## Portfolio
-Built as part of COS6031 Applied AI Professional module.
+
